@@ -1,0 +1,796 @@
+<!DOCTYPE html
+	[<!ENTITY hellip "">
+	<!ENTITY amp "">
+	<!ENTITY nbsp "">
+	<!ENTITY copy "">]
+>
+<div class="listings table">
+	<div class="thead">
+		<div class="tr">
+			<div class="th"></div>
+			<div class="th">Site</div>
+			<div class="th right">
+				<span class="tsshow">Daily Time on Site
+					<span class="WhatsThis top" >
+				<i class='fa fa-question-circle' aria-hidden='true'></i>
+					<span class="container">
+					<b>Daily Time on Site</b><br/><br/>Estimated daily time on site (mm:ss) per visitor to the site. Updated daily based on the trailing 3 months.
+					</span>
+				</span> 
+				</span>
+			</div>
+			<div class="th right"><span class="tsshow">Daily Pageviews per Visitor            <span class="WhatsThis top" >
+			<i class='fa fa-question-circle' aria-hidden='true'></i>
+			<span class="container">
+			<b>Daily Pageviews per Visitor</b><br/><br/>Estimated daily unique pageviews per visitor on the site. Updated daily based on the trailing 3 months.
+			</span>
+			</span> </span></div>
+			<div class="th right"><span class="tsshow">% of Traffic From Search            <span class="WhatsThis top" >
+			<i class='fa fa-question-circle' aria-hidden='true'></i>
+			<span class="container">
+			<b>% of Traffic From Search</b><br/><br/>The percentage of all referrals that came from Search engines over the trailing month. Updated daily.
+			</span>
+			</span> </span></div>
+			<div class="th right"><span class="tsshow">Total Sites Linking In            <span class="WhatsThis top" >
+			<i class='fa fa-question-circle' aria-hidden='true'></i>
+			<span class="container">
+			<b>Total Sites Linking In</b><br/><br/>The total number of sites that Alexa found that link to this site. For more information please see <a href="https://support.alexa.com/hc/en-us/articles/200444340" target="_blank">this explanation</a> of how Alexa determines the number of sites linking in.
+			</span>
+			</span> </span></div>
+		</div>
+	</div><!--thead-->
+	<div class="tr site-listing">
+		<div class="td number">1</div>
+		<div class="td DescriptionCell">
+			<p class="">
+				<a href="/siteinfo/google.com">Google.com</a>
+			</p>
+				<div class="description">
+				Enables users to search the world's information, including webpages, images, and videos. Offers
+				<span class='trucate'><a class='moreDesc'>More</a></span>
+				<span class="remainder"> unique features and search technology.
+					<span class='trucate'><a class='lessDesc'>Less</a></span>
+				</span>
+			</div>
+		</div>
+		<div class="td right"><p>7:51</p></div>
+		<div class="td right"><p>8.28</p></div>
+		<div class="td right"><p>3.70%</p></div>
+		<div class="td right"><p>3,560,046</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">2</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/tuko.co.ke">Tuko.co.ke</a>
+	</p>
+	<div class="description">
+	Tuko Kenya is a unique combination of trending news, viral content, gossip and entertainment ne<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ws from Kenya and around the world. News can be read in Swahili &amp; English.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>7:27</p></div>
+	<div class="td right"><p>3.03</p></div>
+	<div class="td right"><p>28.60%</p></div>
+	<div class="td right"><p>2,026</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">3</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/youtube.com">Youtube.com</a>
+	</p>
+	<div class="description">
+	User-submitted videos with rating, comments, and contests.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>8:55</p></div>
+	<div class="td right"><p>5.28</p></div>
+	<div class="td right"><p>13.50%</p></div>
+	<div class="td right"><p>2,699,220</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">4</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/standardmedia.co.ke">Standardmedia.co.ke</a>
+	</p>
+	<div class="description">
+	News including health, business, sports, and science coverage, special reports, and blogs.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>10:14</p></div>
+	<div class="td right"><p>2.89</p></div>
+	<div class="td right"><p>20.80%</p></div>
+	<div class="td right"><p>8,038</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">5</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/nation.co.ke">Nation.co.ke</a>
+	</p>
+	<div class="description">
+	Breaking News, Kenya, Africa, Politics, Business, Sports, Blogs, Photos, Videos - DAILY NATION<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>6:43</p></div>
+	<div class="td right"><p>3.20</p></div>
+	<div class="td right"><p>21.30%</p></div>
+	<div class="td right"><p>9,948</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">6</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/the-star.co.ke">The-star.co.ke</a>
+	</p>
+	<div class="description">
+	Latest news, world, business, sport, opinion, health, classifieds, and more from The Star, Keny<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">a - Fresh, Independent, Different.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:47</p></div>
+	<div class="td right"><p>2.62</p></div>
+	<div class="td right"><p>30.40%</p></div>
+	<div class="td right"><p>4,496</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">7</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/facebook.com">Facebook.com</a>
+	</p>
+	<div class="description">
+	A social utility that connects people, to keep up with friends, upload photos, share links and <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">videos.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>10:15</p></div>
+	<div class="td right"><p>4.00</p></div>
+	<div class="td right"><p>7.30%</p></div>
+	<div class="td right"><p>7,601,185</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">8</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/yahoo.com">Yahoo.com</a>
+	</p>
+	<div class="description">
+	A major internet portal and service provider offering search results, customizable content, cha<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">trooms, free e-mail, clubs, and pager.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:07</p></div>
+	<div class="td right"><p>3.79</p></div>
+	<div class="td right"><p>7.10%</p></div>
+	<div class="td right"><p>648,102</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">9</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/google.co.ke">Google.co.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>1:15</p></div>
+	<div class="td right"><p>2.64</p></div>
+	<div class="td right"><p>3.90%</p></div>
+	<div class="td right"><p>1,038</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">10</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/jumia.co.ke">Jumia.co.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>5:11</p></div>
+	<div class="td right"><p>2.68</p></div>
+	<div class="td right"><p>6.80%</p></div>
+	<div class="td right"><p>297</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">11</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/sde.co.ke">Sde.co.ke</a>
+	</p>
+	<div class="description">
+	The Ultimate Entertainment Website. Experience It Now!<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>5:52</p></div>
+	<div class="td right"><p>2.44</p></div>
+	<div class="td right"><p>14.10%</p></div>
+	<div class="td right"><p>1,578</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">12</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/sportpesa.com">Sportpesa.com</a>
+	</p>
+	<div class="description">
+	Africa's Number One Sport betting platform and proud sponsor of Kenya's official football Leagu<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">e The Sportpesa Premier League.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>17:16</p></div>
+	<div class="td right"><p>6.74</p></div>
+	<div class="td right"><p>10.30%</p></div>
+	<div class="td right"><p>177</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">13</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/trackingclick.net">Trackingclick.net</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>0:39</p></div>
+	<div class="td right"><p>2.56</p></div>
+	<div class="td right"><p>0.70%</p></div>
+	<div class="td right"><p>102</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">14</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/kenyans.co.ke">Kenyans.co.ke</a>
+	</p>
+	<div class="description">
+	Latest News, Thousands of Music Videos, Politician Bios, 1300 Kenyan Artists, Government Breakd<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">own and more.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>9:30</p></div>
+	<div class="td right"><p>4.45</p></div>
+	<div class="td right"><p>4.60%</p></div>
+	<div class="td right"><p>469</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">15</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/wikipedia.org">Wikipedia.org</a>
+	</p>
+	<div class="description">
+	A free encyclopedia built collaboratively using wiki software. (Creative Commons Attribution-Sh<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">areAlike License).<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:17</p></div>
+	<div class="td right"><p>3.36</p></div>
+	<div class="td right"><p>63.50%</p></div>
+	<div class="td right"><p>1,722,890</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">16</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/kenyamoja.com">Kenyamoja.com</a>
+	</p>
+	<div class="description">
+	Kenya News and Videos<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>5:46</p></div>
+	<div class="td right"><p>3.37</p></div>
+	<div class="td right"><p>21.40%</p></div>
+	<div class="td right"><p>1,271</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">17</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/twitter.com">Twitter.com</a>
+	</p>
+	<div class="description">
+	Social networking and microblogging service utilising instant messaging, SMS or a web interface.<span class="remainder">.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>6:15</p></div>
+	<div class="td right"><p>3.23</p></div>
+	<div class="td right"><p>11.50%</p></div>
+	<div class="td right"><p>5,571,981</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">18</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/mpasho.co.ke">Mpasho.co.ke</a>
+	</p>
+	<div class="description">
+	Lifestyle and Entertainment News. BOLD And TRUE.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>6:01</p></div>
+	<div class="td right"><p>2.72</p></div>
+	<div class="td right"><p>14.20%</p></div>
+	<div class="td right"><p>773</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">19</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/ghafla.com">Ghafla.com</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>5:55</p></div>
+	<div class="td right"><p>3.05</p></div>
+	<div class="td right"><p>18.40%</p></div>
+	<div class="td right"><p>632</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">20</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/onclkds.com">Onclkds.com</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>1:18</p></div>
+	<div class="td right"><p>2.03</p></div>
+	<div class="td right"><p>1.10%</p></div>
+	<div class="td right"><p>176</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">21</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/thepiratebay.org">Thepiratebay.org</a>
+	</p>
+	<div class="description">
+	Worlds largest Bittorrent tracker.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:18</p></div>
+	<div class="td right"><p>6.17</p></div>
+	<div class="td right"><p>16.10%</p></div>
+	<div class="td right"><p>10,148</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">22</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/fmovies.is">Fmovies.is</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:49</p></div>
+	<div class="td right"><p>3.65</p></div>
+	<div class="td right"><p>17.30%</p></div>
+	<div class="td right"><p>41</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">23</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/ecitizen.go.ke">Ecitizen.go.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>16:35</p></div>
+	<div class="td right"><p>9.04</p></div>
+	<div class="td right"><p>20.20%</p></div>
+	<div class="td right"><p>226</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">24</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/iebc.or.ke">Iebc.or.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>15:17</p></div>
+	<div class="td right"><p>3.71</p></div>
+	<div class="td right"><p>20.70%</p></div>
+	<div class="td right"><p>181</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">25</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/betin.co.ke">Betin.co.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>12:52</p></div>
+	<div class="td right"><p>4.74</p></div>
+	<div class="td right"><p>13.80%</p></div>
+	<div class="td right"><p>80</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">26</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/xvideos.com">Xvideos.com</a>
+	</p>
+	<div class="description">
+	Streaming high and standard definition movies. Categories include hardcore, 'punish' porn, publ<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ic sex, BBW, ethnic and shemale.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>11:45</p></div>
+	<div class="td right"><p>9.65</p></div>
+	<div class="td right"><p>28.50%</p></div>
+	<div class="td right"><p>13,452</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">27</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/kra.go.ke">Kra.go.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>17:49</p></div>
+	<div class="td right"><p>4.83</p></div>
+	<div class="td right"><p>18.20%</p></div>
+	<div class="td right"><p>470</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">28</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/kilimall.co.ke">Kilimall.co.ke</a>
+	</p>
+	<div class="description">
+	Kilimall is Kenya's premier online shopping mall, we strive to empower 30M Kenyans with cost-ef<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">fective products &amp; services, live smart with kilimall.co.ke<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:20</p></div>
+	<div class="td right"><p>3.63</p></div>
+	<div class="td right"><p>8.90%</p></div>
+	<div class="td right"><p>268</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">29</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/instagram.com">Instagram.com</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>5:26</p></div>
+	<div class="td right"><p>3.33</p></div>
+	<div class="td right"><p>11.90%</p></div>
+	<div class="td right"><p>1,877,907</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">30</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/ask.com">Ask.com</a>
+	</p>
+	<div class="description">
+	Offers search for web sites, images, news, blogs, video, maps and directions, local search and <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">shopping.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>2:08</p></div>
+	<div class="td right"><p>2.56</p></div>
+	<div class="td right"><p>1.40%</p></div>
+	<div class="td right"><p>22,568</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">31</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/olx.co.ke">Olx.co.ke</a>
+	</p>
+	<div class="description">
+	OLX is the leading consumer to consumer (C2C) online marketplace in Kenya where Individuals Buy<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">, Sell and Rent everything locally from anywhere in Kenya, through Free Classifieds Advertisements of pre-owned Mobiles, Computers, Electronics, Furniture, Appliances, Cars, Bikes, Properties, Apartments. and much more.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>11:42</p></div>
+	<div class="td right"><p>7.83</p></div>
+	<div class="td right"><p>26.70%</p></div>
+	<div class="td right"><p>189</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">32</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/linkedin.com">Linkedin.com</a>
+	</p>
+	<div class="description">
+	A networking tool to find connections to recommended job candidates, industry experts and busin<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ess partners. Allows registered users to maintain a list of contact details of people they know and trust in business.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>5:38</p></div>
+	<div class="td right"><p>4.38</p></div>
+	<div class="td right"><p>18.30%</p></div>
+	<div class="td right"><p>1,923,225</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">33</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/flashscore.com">Flashscore.com</a>
+	</p>
+	<div class="description">
+	Most comprehensive livescore service on the global market offering detailed league tables and t<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ournament draws, live centre and current betting odds comparison.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>11:45</p></div>
+	<div class="td right"><p>6.30</p></div>
+	<div class="td right"><p>10.40%</p></div>
+	<div class="td right"><p>1,187</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">34</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/futbol24.com">Futbol24.com</a>
+	</p>
+	<div class="description">
+	Futbol24.com is one of the fastest and most reliable soccer live scores services. We have been <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">online since 2001, but our experience in football information and live score data goes back to 1995, when we were the pioneers of live scores on the Internet and creators of the most popular then Polish soccer site Futbol.pl. ...<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>11:07</p></div>
+	<div class="td right"><p>7.03</p></div>
+	<div class="td right"><p>14.50%</p></div>
+	<div class="td right"><p>631</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">35</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/t.co">T.co</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>0:49</p></div>
+	<div class="td right"><p>2.53</p></div>
+	<div class="td right"><p>3.20%</p></div>
+	<div class="td right"><p>133,741</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">36</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/gostream.is">Gostream.is</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:14</p></div>
+	<div class="td right"><p>5.08</p></div>
+	<div class="td right"><p>8.30%</p></div>
+	<div class="td right"><p>16</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">37</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/helb.co.ke">Helb.co.ke</a>
+	</p>
+	<div class="description">
+	Finances higher education to needy Kenyan students both locally and abroad.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>14:45</p></div>
+	<div class="td right"><p>5.26</p></div>
+	<div class="td right"><p>22.20%</p></div>
+	<div class="td right"><p>233</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">38</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/kahawatungu.com">Kahawatungu.com</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:09</p></div>
+	<div class="td right"><p>1.90</p></div>
+	<div class="td right"><p>11.30%</p></div>
+	<div class="td right"><p>221</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">39</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/myway.com">Myway.com</a>
+	</p>
+	<div class="description">
+	Internet portal without banners or pop-ups.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>2:50</p></div>
+	<div class="td right"><p>2.85</p></div>
+	<div class="td right"><p>1.70%</p></div>
+	<div class="td right"><p>4,308</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">40</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/zedo.com">Zedo.com</a>
+	</p>
+	<div class="description">
+	Major ad serving player with solid technology. ZEDO is one of the 3 high quality ad serving com<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">panies that focuses on solid technology, great service and its customers. It does not compete by running an ad network and is well respected in the industry. ZEDO is especially good at Rich Media for Publishers and at Optimization for ad Publishers and Direct Marketers.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>1:05</p></div>
+	<div class="td right"><p>1.49</p></div>
+	<div class="td right"><p>1.40%</p></div>
+	<div class="td right"><p>709</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">41</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/blogspot.co.ke">Blogspot.co.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>2:25</p></div>
+	<div class="td right"><p>1.64</p></div>
+	<div class="td right"><p>35.90%</p></div>
+	<div class="td right"><p>2,483</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">42</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/betensured.com">Betensured.com</a>
+	</p>
+	<div class="description">
+	Free football predictions &amp; tips. Betensured is the best source of well researched football<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder"> statistics, analysis and predictions.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:04</p></div>
+	<div class="td right"><p>2.74</p></div>
+	<div class="td right"><p>16.60%</p></div>
+	<div class="td right"><p>1,384</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">43</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/1xbet.co.ke">1xbet.co.ke</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>2:20</p></div>
+	<div class="td right"><p>1.25</p></div>
+	<div class="td right"><p>1.00%</p></div>
+	<div class="td right"><p>15</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">44</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/pornhub.com">Pornhub.com</a>
+	</p>
+	<div class="description">
+	Please contact dice[/at/]pornhub[/dot/]com for any inquiries.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>8:16</p></div>
+	<div class="td right"><p>3.06</p></div>
+	<div class="td right"><p>23.40%</p></div>
+	<div class="td right"><p>14,820</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">45</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/amazon.com">Amazon.com</a>
+	</p>
+	<div class="description">
+	Amazon.com seeks to be Earth's most customer-centric company, where customers can find and disc<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">over anything they might want to buy online, and endeavors to offer its customers the lowest possible prices. Site has numerous personalization features and services including one-click buying, extensive customer and editorial product reviews, gift registries, gift certificates, wish lists, restaurant and movie listings, travel, and photo processing.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>8:28</p></div>
+	<div class="td right"><p>8.75</p></div>
+	<div class="td right"><p>19.80%</p></div>
+	<div class="td right"><p>827,984</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">46</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/bbc.com">Bbc.com</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>4:14</p></div>
+	<div class="td right"><p>2.72</p></div>
+	<div class="td right"><p>15.40%</p></div>
+	<div class="td right"><p>103,723</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">47</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/soccerway.com">Soccerway.com</a>
+	</p>
+	<div class="description">
+	Live scores, statistics, results, fixtures and news for over 700 leagues &amp; cups worldwide.<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>10:30</p></div>
+	<div class="td right"><p>8.61</p></div>
+	<div class="td right"><p>25.00%</p></div>
+	<div class="td right"><p>2,404</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">48</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/popads.net">Popads.net</a>
+	</p>
+	<div class="description">
+	&nbsp;<span class="remainder"></span>
+	</div>
+	</div>
+	<div class="td right"><p>0:52</p></div>
+	<div class="td right"><p>2.00</p></div>
+	<div class="td right"><p>1.00%</p></div>
+	<div class="td right"><p>1,007</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">49</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/whatsapp.com">Whatsapp.com</a>
+	</p>
+	<div class="description">
+	Một ứng dụng nhắn tin đa nền tảng, cho phép bạn nhắn tin mà không cần phải trả phí tin nhắn SMS.<span class="remainder">.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>2:47</p></div>
+	<div class="td right"><p>1.20</p></div>
+	<div class="td right"><p>11.10%</p></div>
+	<div class="td right"><p>9,844</p></div>
+	</div>
+	<div class="tr site-listing">
+	<div class="td number">50</div>
+	<div class="td DescriptionCell">
+	<p class="">
+	<a href="/siteinfo/savefrom.net">Savefrom.net</a>
+	</p>
+	<div class="description">
+	Предоставляет возможность получения прямых ссылок для загрузки файлов с популярных файлообменни<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ков и медиахостингов.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+	</div>
+	</div>
+	<div class="td right"><p>3:06</p></div>
+	<div class="td right"><p>1.29</p></div>
+	<div class="td right"><p>8.30%</p></div>
+	<div class="td right"><p>8,800</p></div>
+	</div>
+</div>
